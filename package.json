@@ -7,8 +7,17 @@
   },
   "author": "Mugdho",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugdho10/Weather-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mugdho10/Weather-Project/issues"
+  },
+  "homepage": "https://github.com/Mugdho10/Weather-Project#readme",
+  "description": ""
 }
